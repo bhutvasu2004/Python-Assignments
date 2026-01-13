@@ -17,5 +17,11 @@ Folder: `Assignments-2`
 Folder: `Assignments-3`
 
   - Task 1: Calculate Factorial Using a Function → `Assignments-3/task1.py`  
-  - Task 2: Using the Math Module for Calculations → `Assignments-3/task2.py`  
+  - Task 2: Using the Math Module for Calculations → `Assignments-3/task2.py`
+    
+## Module 5: Files, Exceptions, and Errors in Python (Assignment 4)
+Folder: `Assignments-4`
+
+  - Task 1: Read a File and Handle Errors → Assignments-4/task1.py
+  - Task 2: Write and Append Data to a File → Assignments-4/task2.py
 
