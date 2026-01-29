@@ -25,3 +25,9 @@ Folder: `Assignments-4`
   - Task 1: Read a File and Handle Errors → Assignments-4/task1.py
   - Task 2: Write and Append Data to a File → Assignments-4/task2.py
 
+## Module 6: Data Structures and Strings in Python (Assignment 5)
+Folder: `Assignments-5`
+
+  - Task 1: Create a Dictionary of Student Marks → Assignments-5/task1.py
+  - Task 2: Demonstrate List Slicing → Assignments-5/task2.py
+
